@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccShaders.cpp \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccShaders.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/platform/ios/CCGL.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/../base/CCPlatformConfig.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/../base/CCPlatformMacros.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccConfig.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/platform/ios/CCPlatformDefine.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccShader_Position_uColor_frag.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccShader_Position_uColor_vert.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccShader_PositionColor_frag.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccShader_PositionColor_vert.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccShader_PositionTexture_frag.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccShader_PositionTexture_vert.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccShader_PositionTextureA8Color_frag.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccShader_PositionTextureA8Color_vert.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccShader_PositionTextureColor_frag.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccShader_PositionTextureColor_vert.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccShader_PositionTextureColor_noMVP_frag.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccShader_PositionTextureColor_noMVP_vert.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccShader_PositionTextureColorAlphaTest_frag.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccShader_PositionTexture_uColor_frag.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccShader_PositionTexture_uColor_vert.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccShader_PositionColorLengthTexture_frag.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccShader_PositionColorLengthTexture_vert.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccShader_Label_frag_df.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccShader_Label_frag_df_glow.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccShader_Label_frag_normal.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccShader_Label_frag_outline.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccShader_Label_vert.h

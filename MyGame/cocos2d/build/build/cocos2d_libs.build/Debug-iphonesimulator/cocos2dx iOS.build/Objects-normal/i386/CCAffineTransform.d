@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCAffineTransform.cpp \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/base/CCAffineTransform.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/base/CCGeometry.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/base/CCPlatformMacros.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccConfig.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/../base/CCPlatformConfig.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/platform/ios/CCPlatformDefine.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccMacros.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/../base/CCConsole.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/platform/ios/CCStdC.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/kazmath.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/vec2.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/utility.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/vec3.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/vec4.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/mat3.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/mat4.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/quaternion.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/plane.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/aabb.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/ray2.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/ray3.h

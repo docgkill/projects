@@ -1,0 +1,1471 @@
+TMyGame iOS
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Info.plist /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Info.plist
+cCpResource ios/Icon-120.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-120.png
+cCpResource ios/Icon-76.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-76.png
+cCpResource ios/Default@2x.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Default@2x.png
+cCpResource ios/Icon-100.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-100.png
+cCpResource /Users/kimjihoon/Development/projects/MyGame/Resources/CloseNormal.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/CloseNormal.png
+cCpResource ios/Icon-152.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-152.png
+cCpResource ios/Default-568h@2x.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Default-568h@2x.png
+cCpResource ios/Icon-72.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-72.png
+cCpResource /Users/kimjihoon/Development/projects/MyGame/Resources/CloseSelected.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/CloseSelected.png
+cCpResource ios/Icon-50.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-50.png
+cCpResource ios/Icon-114.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-114.png
+cCpResource /Users/kimjihoon/Development/projects/MyGame/Resources/HelloWorld.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/HelloWorld.png
+cCpResource ios/Icon-29.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-29.png
+cCpResource ios/Icon-40.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-40.png
+cCpResource ios/Icon-144.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-144.png
+cCpResource ios/Icon-80.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-80.png
+cCpResource ios/Icon-57.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-57.png
+cCpResource ios/Default.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Default.png
+cCpResource ios/Icon-58.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-58.png
+cProcessPCH++ /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-edwpdbidhozgimfihyezjxsijpdr/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-adjwzijobbnhvefyrmlhxkckmqor/Prefix.pch.pch ios/Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-gzmwjmstfobobbempfoqyvkczxlq/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/AppController.o /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/AppController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/RootViewController.o /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/RootViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/AppDelegate.o /Users/kimjihoon/Development/projects/MyGame/Classes/AppDelegate.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/main.o /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/HelloWorldScene.o /Users/kimjihoon/Development/projects/MyGame/Classes/HelloWorldScene.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/MyGame\ iOS normal i386
+cGenerateDSYMFile /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app.dSYM /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/MyGame\ iOS
+cTouch /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005351389200000000000003B4
+t1397831826
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053513899000000000000019E
+t1397831833
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000005351389B0000000000484210
+t1397831835
+s4735504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000005351389C0000000000904120
+t1397831836
+s9453856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005351389C0000000000446820
+t1397831836
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005351389E000000000088D8C0
+t1397831838
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000005351389E000000000007C0D0
+t1397831838
+s508112
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000005351389F0000000000037680
+t1397831839
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005351389F000000000048F720
+t1397831839
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000535138A30000000001F1DE10
+t1397831843
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib
+c00000000535138B5000000000002B700
+t1397831861
+s177920
+
+N/Users/kimjihoon/Development/projects/MyGame/Classes/AppDelegate.cpp
+c00000000533A8B840000000000000558
+t1396345732
+s1368
+
+N/Users/kimjihoon/Development/projects/MyGame/Classes/HelloWorldScene.cpp
+c00000000533A94FA0000000000000AB2
+t1396348154
+s2738
+
+N/Users/kimjihoon/Development/projects/MyGame/Resources/CloseNormal.png
+c00000000533A8B8400000000000018A7
+t1396345732
+s6311
+
+N/Users/kimjihoon/Development/projects/MyGame/Resources/CloseSelected.png
+c00000000533A8B84000000000000157B
+t1396345732
+s5499
+
+N/Users/kimjihoon/Development/projects/MyGame/Resources/HelloWorld.png
+c00000000533A8B840000000000021E19
+t1396345732
+s138777
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app
+t1397832274
+s816
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app.dSYM
+t2
+s0
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/CloseNormal.png
+t1397832269
+s6311
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/CloseSelected.png
+t1397832269
+s5499
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Default-568h@2x.png
+t1397832269
+s193731
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Default.png
+t1397832269
+s89508
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Default@2x.png
+t1397832269
+s580904
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/HelloWorld.png
+t1397832269
+s138777
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-100.png
+t1397832269
+s17283
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-114.png
+t1397832269
+s16537
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-120.png
+t1397832269
+s23871
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-144.png
+t1397832269
+s26403
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-152.png
+t1397832269
+s33665
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-29.png
+t1397832269
+s4038
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-40.png
+t1397832269
+s5478
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-50.png
+t1397832269
+s7038
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-57.png
+t1397832269
+s8960
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-58.png
+t1397832269
+s8433
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-72.png
+t1397832269
+s11453
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-76.png
+t1397832269
+s13250
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-80.png
+t1397832269
+s12489
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Info.plist
+t1397832269
+s1155
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/MyGame iOS
+t1397832274
+s7868440
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/PkgInfo
+t1397832269
+s8
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/libCocosDenshion iOS.a
+c0000000053513A4D0000000000055290
+t1397832269
+s348816
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/libbox2d iOS.a
+c0000000053513A4B00000000001CF200
+t1397832267
+s1896960
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/libchipmunk iOS.a
+c00000000535139A200000000000BF4E0
+t1397832098
+s783584
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/libcocos2dx iOS.a
+c0000000053513A35000000000CD4D658
+t1397832245
+s215275096
+
+N/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/libcocos2dx-extensions iOS.a
+c0000000053513A47000000000141BFF8
+t1397832263
+s21086200
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame iOS.build/Objects-normal/i386/AppController.o
+t1397832273
+s955972
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame iOS.build/Objects-normal/i386/AppDelegate.o
+t1397832273
+s1122828
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame iOS.build/Objects-normal/i386/HelloWorldScene.o
+t1397832274
+s1552624
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame iOS.build/Objects-normal/i386/MyGame iOS.LinkFileList
+c0000000053513A4D00000000000002F4
+t1397832269
+s756
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame iOS.build/Objects-normal/i386/RootViewController.o
+t1397832273
+s1157024
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame iOS.build/Objects-normal/i386/main.o
+t1397832270
+s4108
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/AppController.mm
+c00000000533A94FA000000000000164D
+t1396348154
+s5709
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Default-568h@2x.png
+c00000000533A8B84000000000002F4C3
+t1396345732
+s193731
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Default.png
+c00000000533A8B840000000000015DA4
+t1396345732
+s89508
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Default@2x.png
+c00000000533A8B84000000000008DD28
+t1396345732
+s580904
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-100.png
+c00000000533A8B840000000000004383
+t1396345732
+s17283
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-114.png
+c00000000533A8B840000000000004099
+t1396345732
+s16537
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-120.png
+c00000000533A8B840000000000005D3F
+t1396345732
+s23871
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-144.png
+c00000000533A8B840000000000006723
+t1396345732
+s26403
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-152.png
+c00000000533A8B840000000000008381
+t1396345732
+s33665
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-29.png
+c00000000533A8B840000000000000FC6
+t1396345732
+s4038
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-40.png
+c00000000533A8B840000000000001566
+t1396345732
+s5478
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-50.png
+c00000000533A8B840000000000001B7E
+t1396345732
+s7038
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-57.png
+c00000000533A8B840000000000002300
+t1396345732
+s8960
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-58.png
+c00000000533A8B8400000000000020F1
+t1396345732
+s8433
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-72.png
+c00000000533A8B840000000000002CBD
+t1396345732
+s11453
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-76.png
+c00000000533A8B8400000000000033C2
+t1396345732
+s13250
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-80.png
+c00000000533A8B8400000000000030C9
+t1396345732
+s12489
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Info.plist
+c00000000533A8B8400000000000007CC
+t1396345732
+s1996
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Prefix.pch
+c000000005351232C00000000000000B5
+t1397826348
+s181
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/RootViewController.mm
+c00000000534CBE380000000000000E51
+t1397538360
+s3665
+
+N/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/main.m
+c000000005351232C00000000000000F2
+t1397826348
+s242
+
+N/var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-adjwzijobbnhvefyrmlhxkckmqor/Prefix.pch.pch
+t1397832269
+s123204
+
+N/var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-edwpdbidhozgimfihyezjxsijpdr/Prefix.pch.pch
+t1397832270
+s6315372
+
+N/var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-gzmwjmstfobobbempfoqyvkczxlq/Prefix.pch.pch
+t1397832270
+s5370036
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies9c33eacd7101b941^ae2aebcd7101b941^---0#1#1#--18"Check dependencies36"B3BAF220-A594-49A1-9C36-930CE1AF5A81-
+
+CCompileC build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/AppController.o /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/AppController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s419525070.457018
+e419525073.764196
+r1
+xCompileC
+xbuild/MyGame.build/Debug-iphonesimulator/MyGame iOS.build/Objects-normal/i386/AppController.o
+x/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/AppController.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/AppController.mm
+d/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/AppController.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/ios/CCEAGLView.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCPlatformConfig.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/ios/CCESRenderer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCPlatformMacros.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccConfig.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/ios/CCPlatformDefine.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/cocos2d.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCAction.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCRef.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCGeometry.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccMacros.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCConsole.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/ios/CCStdC.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionInterval.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCAffineTransform.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/kazmath.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/vec2.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/utility.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/vec3.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/vec4.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/mat3.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/mat4.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/quaternion.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/plane.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/aabb.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/ray2.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/ray3.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/ios/CCGL.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccGLStateCache.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCGLProgram.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCScriptSupport.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCCommon.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTouch.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventTouch.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEvent.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventKeyboard.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCProtocols.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccTypes.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTexture2D.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventDispatcher.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventListener.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCVector.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCSpriteFrame.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCAnimation.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCValue.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionCamera.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionManager.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionEase.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionPageTurn3D.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionGrid3D.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionGrid.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionInstant.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionProgressTimer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionTiledGrid.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionTween.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionCatmullRom.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTweenFunction.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCAtlasNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCQuadCommand.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCRenderCommand.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/GL/matrix.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCRenderCommandPool.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCMap.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCAutoreleasePool.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCNS.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCData.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCDrawingPrimitives.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCDrawNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCCustomCommand.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCGrabber.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCConfiguration.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCGrid.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCDirector.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCLabelAtlas.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventType.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCLabelTTF.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCLabelBMFont.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCLabel.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCSpriteBatchNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTextureAtlas.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCBatchCommand.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCFontAtlas.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCFontFNT.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCFont.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCLayer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCScene.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/physics/CCPhysicsWorld.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTransition.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTransitionPageTurn.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTransitionProgress.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCMenu.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCMenuItem.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCClippingNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCGroupCommand.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCMotionStreak.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCProgressTimer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCSprite.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/physics/CCPhysicsBody.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/physics/CCPhysicsShape.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCRenderTexture.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCImage.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCNodeGrid.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCParticleBatchNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCParticleSystem.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCString.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCArray.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccCArray.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCDataVisitor.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCParticleExamples.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCParticleSystemQuad.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCFrustum.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCMaterialManager.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCRenderMaterial.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCRenderer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/physics/CCPhysicsContact.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventListenerCustom.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventCustom.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/physics/CCPhysicsJoint.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCDevice.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCFileUtils.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCSAXParser.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCThread.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/ios/CCApplication.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCApplicationProtocol.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/ios/CCGLView.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCGLViewProtocol.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCShaderCache.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccShaders.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCAnimationCache.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCSpriteFrameCache.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccUTF8.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCProfiling.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCUserDefault.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCVertex.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCIMEDelegate.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCIMEDispatcher.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTextFieldTTF.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTextureCache.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCParallaxNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTMXLayer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTMXObjectGroup.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTMXXMLParser.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTMXTiledMap.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTileMapAtlas.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventListenerTouch.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventListenerKeyboard.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventListenerMouse.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventMouse.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventAcceleration.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventListenerAcceleration.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCScheduler.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/uthash.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCComponent.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCComponentContainer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCDictionary.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCSet.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCInteger.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCFloat.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCDouble.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCBool.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCNotificationCenter.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCDeprecated.h
+d/Users/kimjihoon/Development/projects/MyGame/Classes/AppDelegate.h
+d/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/RootViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/AppController.mm210"[1mCompileC[0m build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/AppController.o [1mios/AppController.mm[0m normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler593475ce7101b941^12a3c3d17101b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/AppController.mm0000000000000000^4614"[1mCompileC[0m build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/AppController.o [1mios/AppController.mm[0m normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/MyGame\ iOS.hmap -I/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/include -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/base -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/physics -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/2d -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/ui -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/network -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/extensions -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/external -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/DerivedSources/i386 -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/DerivedSources -F/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios -include /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-edwpdbidhozgimfihyezjxsijpdr/Prefix.pch -MMD -MT dependencies -MF /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/AppController.d --serialize-diagnostics /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/AppController.dia -c /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/AppController.mm -o /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/AppController.o36"0D81FE58-BD73-4C77-83A8-E2CE57962C48-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CCompileC build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/AppDelegate.o /Users/kimjihoon/Development/projects/MyGame/Classes/AppDelegate.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s419525070.457819
+e419525073.748441
+r1
+xCompileC
+xbuild/MyGame.build/Debug-iphonesimulator/MyGame iOS.build/Objects-normal/i386/AppDelegate.o
+x/Users/kimjihoon/Development/projects/MyGame/Classes/AppDelegate.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kimjihoon/Development/projects/MyGame/Classes/AppDelegate.cpp
+d/Users/kimjihoon/Development/projects/MyGame/Classes/AppDelegate.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/cocos2d.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccConfig.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCPlatformConfig.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCAction.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCRef.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCPlatformMacros.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/ios/CCPlatformDefine.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCGeometry.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccMacros.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCConsole.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/ios/CCStdC.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionInterval.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCAffineTransform.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/kazmath.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/vec2.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/utility.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/vec3.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/vec4.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/mat3.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/mat4.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/quaternion.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/plane.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/aabb.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/ray2.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/ray3.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/ios/CCGL.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccGLStateCache.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCGLProgram.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCScriptSupport.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCCommon.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTouch.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventTouch.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEvent.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventKeyboard.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCProtocols.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccTypes.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTexture2D.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventDispatcher.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventListener.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCVector.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCSpriteFrame.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCAnimation.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCValue.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionCamera.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionManager.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionEase.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionPageTurn3D.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionGrid3D.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionGrid.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionInstant.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionProgressTimer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionTiledGrid.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionTween.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionCatmullRom.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTweenFunction.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCAtlasNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCQuadCommand.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCRenderCommand.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/GL/matrix.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCRenderCommandPool.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCMap.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCAutoreleasePool.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCNS.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCData.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCDrawingPrimitives.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCDrawNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCCustomCommand.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCGrabber.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCConfiguration.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCGrid.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCDirector.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCLabelAtlas.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventType.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCLabelTTF.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCLabelBMFont.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCLabel.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCSpriteBatchNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTextureAtlas.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCBatchCommand.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCFontAtlas.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCFontFNT.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCFont.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCLayer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCScene.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/physics/CCPhysicsWorld.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTransition.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTransitionPageTurn.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTransitionProgress.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCMenu.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCMenuItem.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCClippingNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCGroupCommand.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCMotionStreak.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCProgressTimer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCSprite.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/physics/CCPhysicsBody.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/physics/CCPhysicsShape.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCRenderTexture.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCImage.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCNodeGrid.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCParticleBatchNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCParticleSystem.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCString.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCArray.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccCArray.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCDataVisitor.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCParticleExamples.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCParticleSystemQuad.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCFrustum.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCMaterialManager.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCRenderMaterial.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCRenderer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/physics/CCPhysicsContact.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventListenerCustom.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventCustom.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/physics/CCPhysicsJoint.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCDevice.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCFileUtils.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCSAXParser.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCThread.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/ios/CCApplication.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCApplicationProtocol.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/ios/CCGLView.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCGLViewProtocol.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCShaderCache.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccShaders.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCAnimationCache.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCSpriteFrameCache.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccUTF8.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCProfiling.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCUserDefault.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCVertex.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCIMEDelegate.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCIMEDispatcher.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTextFieldTTF.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTextureCache.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCParallaxNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTMXLayer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTMXObjectGroup.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTMXXMLParser.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTMXTiledMap.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTileMapAtlas.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventListenerTouch.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventListenerKeyboard.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventListenerMouse.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventMouse.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventAcceleration.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventListenerAcceleration.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCScheduler.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/uthash.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCComponent.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCComponentContainer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCDictionary.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCSet.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCInteger.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCFloat.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCDouble.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCBool.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCNotificationCenter.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCDeprecated.h
+d/Users/kimjihoon/Development/projects/MyGame/Classes/HelloWorldScene.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/kimjihoon/Development/projects/MyGame/Classes/AppDelegate.cpp246"[1mCompileC[0m build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/AppDelegate.o [1m/Users/kimjihoon/Development/projects/MyGame/Classes/AppDelegate.cpp[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler5b5e75ce7101b941^d09abfd17101b941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/kimjihoon/Development/projects/MyGame/Classes/AppDelegate.cpp0000000000000000^4387"[1mCompileC[0m build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/AppDelegate.o [1m/Users/kimjihoon/Development/projects/MyGame/Classes/AppDelegate.cpp[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/MyGame\ iOS.hmap -I/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/include -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/base -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/physics -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/2d -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/ui -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/network -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/extensions -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/external -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/DerivedSources/i386 -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/DerivedSources -F/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios -include /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-adjwzijobbnhvefyrmlhxkckmqor/Prefix.pch -MMD -MT dependencies -MF /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/AppDelegate.dia -c /Users/kimjihoon/Development/projects/MyGame/Classes/AppDelegate.cpp -o /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/AppDelegate.o36"90EFB2E7-60D0-4704-8F2C-1EBB2577B508-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CCompileC build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/HelloWorldScene.o /Users/kimjihoon/Development/projects/MyGame/Classes/HelloWorldScene.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s419525070.489180
+e419525074.028163
+r1
+xCompileC
+xbuild/MyGame.build/Debug-iphonesimulator/MyGame iOS.build/Objects-normal/i386/HelloWorldScene.o
+x/Users/kimjihoon/Development/projects/MyGame/Classes/HelloWorldScene.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kimjihoon/Development/projects/MyGame/Classes/HelloWorldScene.cpp
+d/Users/kimjihoon/Development/projects/MyGame/Classes/HelloWorldScene.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/cocos2d.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccConfig.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCPlatformConfig.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCAction.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCRef.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCPlatformMacros.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/ios/CCPlatformDefine.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCGeometry.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccMacros.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCConsole.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/ios/CCStdC.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionInterval.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCAffineTransform.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/kazmath.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/vec2.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/utility.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/vec3.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/vec4.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/mat3.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/mat4.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/quaternion.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/plane.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/aabb.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/ray2.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/ray3.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/ios/CCGL.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccGLStateCache.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCGLProgram.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCScriptSupport.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCCommon.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTouch.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventTouch.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEvent.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventKeyboard.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCProtocols.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccTypes.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTexture2D.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventDispatcher.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventListener.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCVector.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCSpriteFrame.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCAnimation.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCValue.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionCamera.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionManager.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionEase.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionPageTurn3D.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionGrid3D.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionGrid.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionInstant.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionProgressTimer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionTiledGrid.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionTween.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionCatmullRom.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTweenFunction.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCAtlasNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCQuadCommand.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCRenderCommand.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/GL/matrix.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCRenderCommandPool.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCMap.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCAutoreleasePool.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCNS.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCData.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCDrawingPrimitives.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCDrawNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCCustomCommand.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCGrabber.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCConfiguration.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCGrid.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCDirector.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCLabelAtlas.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventType.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCLabelTTF.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCLabelBMFont.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCLabel.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCSpriteBatchNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTextureAtlas.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCBatchCommand.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCFontAtlas.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCFontFNT.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCFont.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCLayer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCScene.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/physics/CCPhysicsWorld.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTransition.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTransitionPageTurn.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTransitionProgress.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCMenu.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCMenuItem.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCClippingNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCGroupCommand.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCMotionStreak.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCProgressTimer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCSprite.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/physics/CCPhysicsBody.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/physics/CCPhysicsShape.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCRenderTexture.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCImage.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCNodeGrid.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCParticleBatchNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCParticleSystem.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCString.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCArray.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccCArray.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCDataVisitor.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCParticleExamples.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCParticleSystemQuad.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCFrustum.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCMaterialManager.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCRenderMaterial.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCRenderer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/physics/CCPhysicsContact.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventListenerCustom.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventCustom.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/physics/CCPhysicsJoint.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCDevice.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCFileUtils.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCSAXParser.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCThread.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/ios/CCApplication.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCApplicationProtocol.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/ios/CCGLView.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCGLViewProtocol.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCShaderCache.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccShaders.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCAnimationCache.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCSpriteFrameCache.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccUTF8.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCProfiling.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCUserDefault.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCVertex.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCIMEDelegate.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCIMEDispatcher.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTextFieldTTF.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTextureCache.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCParallaxNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTMXLayer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTMXObjectGroup.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTMXXMLParser.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTMXTiledMap.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTileMapAtlas.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventListenerTouch.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventListenerKeyboard.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventListenerMouse.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventMouse.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventAcceleration.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventListenerAcceleration.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCScheduler.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/uthash.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCComponent.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCComponentContainer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCDictionary.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCSet.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCInteger.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCFloat.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCDouble.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCBool.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCNotificationCenter.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCDeprecated.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/kimjihoon/Development/projects/MyGame/Classes/HelloWorldScene.cpp254"[1mCompileC[0m build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/HelloWorldScene.o [1m/Users/kimjihoon/Development/projects/MyGame/Classes/HelloWorldScene.cpp[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler59be7ece7101b941^9c3607d27101b941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/kimjihoon/Development/projects/MyGame/Classes/HelloWorldScene.cpp0000000000000000^4411"[1mCompileC[0m build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/HelloWorldScene.o [1m/Users/kimjihoon/Development/projects/MyGame/Classes/HelloWorldScene.cpp[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/MyGame\ iOS.hmap -I/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/include -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/base -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/physics -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/2d -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/ui -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/network -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/extensions -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/external -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/DerivedSources/i386 -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/DerivedSources -F/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios -include /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-adjwzijobbnhvefyrmlhxkckmqor/Prefix.pch -MMD -MT dependencies -MF /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/HelloWorldScene.d --serialize-diagnostics /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/HelloWorldScene.dia -c /Users/kimjihoon/Development/projects/MyGame/Classes/HelloWorldScene.cpp -o /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/HelloWorldScene.o36"2C96BFCD-4542-4E07-9A2C-67C8A02BE7A4-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CCompileC build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/RootViewController.o /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/RootViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s419525070.457188
+e419525073.795569
+r1
+xCompileC
+xbuild/MyGame.build/Debug-iphonesimulator/MyGame iOS.build/Objects-normal/i386/RootViewController.o
+x/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/RootViewController.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/RootViewController.mm
+d/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/RootViewController.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/cocos2d.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccConfig.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCPlatformConfig.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCAction.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCRef.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCPlatformMacros.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/ios/CCPlatformDefine.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCGeometry.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccMacros.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCConsole.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/ios/CCStdC.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionInterval.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCAffineTransform.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/kazmath.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/vec2.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/utility.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/vec3.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/vec4.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/mat3.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/mat4.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/quaternion.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/plane.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/aabb.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/ray2.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/ray3.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/ios/CCGL.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccGLStateCache.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCGLProgram.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCScriptSupport.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCCommon.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTouch.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventTouch.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEvent.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventKeyboard.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCProtocols.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccTypes.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTexture2D.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventDispatcher.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventListener.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCVector.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCSpriteFrame.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCAnimation.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCValue.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionCamera.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionManager.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionEase.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionPageTurn3D.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionGrid3D.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionGrid.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionInstant.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionProgressTimer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionTiledGrid.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionTween.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCActionCatmullRom.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTweenFunction.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCAtlasNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCQuadCommand.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCRenderCommand.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/math/kazmath/kazmath/GL/matrix.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCRenderCommandPool.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCMap.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCAutoreleasePool.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCNS.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCData.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCDrawingPrimitives.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCDrawNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCCustomCommand.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCGrabber.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCConfiguration.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCGrid.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCDirector.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCLabelAtlas.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventType.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCLabelTTF.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCLabelBMFont.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCLabel.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCSpriteBatchNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTextureAtlas.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCBatchCommand.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCFontAtlas.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCFontFNT.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCFont.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCLayer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCScene.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/physics/CCPhysicsWorld.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTransition.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTransitionPageTurn.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTransitionProgress.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCMenu.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCMenuItem.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCClippingNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCGroupCommand.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCMotionStreak.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCProgressTimer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCSprite.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/physics/CCPhysicsBody.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/physics/CCPhysicsShape.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCRenderTexture.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCImage.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCNodeGrid.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCParticleBatchNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCParticleSystem.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCString.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCArray.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccCArray.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/base/CCDataVisitor.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCParticleExamples.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCParticleSystemQuad.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCFrustum.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCMaterialManager.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCRenderMaterial.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCRenderer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/physics/CCPhysicsContact.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventListenerCustom.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventCustom.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/physics/CCPhysicsJoint.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCDevice.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCFileUtils.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCSAXParser.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCThread.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/ios/CCApplication.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCApplicationProtocol.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/ios/CCGLView.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/CCGLViewProtocol.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCShaderCache.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccShaders.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCAnimationCache.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCSpriteFrameCache.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/ccUTF8.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCProfiling.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCUserDefault.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCVertex.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCIMEDelegate.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCIMEDispatcher.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTextFieldTTF.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTextureCache.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCParallaxNode.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTMXLayer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTMXObjectGroup.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTMXXMLParser.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTMXTiledMap.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCTileMapAtlas.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventListenerTouch.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventListenerKeyboard.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventListenerMouse.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventMouse.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventAcceleration.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCEventListenerAcceleration.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCScheduler.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/uthash.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCComponent.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/CCComponentContainer.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCDictionary.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCSet.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCInteger.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCFloat.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCDouble.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCBool.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCNotificationCenter.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/deprecated/CCDeprecated.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/ios/CCEAGLView.h
+d/Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/platform/ios/CCESRenderer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/RootViewController.mm220"[1mCompileC[0m build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/RootViewController.o [1mios/RootViewController.mm[0m normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler465b75ce7101b941^b4accbd17101b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/RootViewController.mm0000000000000000^4644"[1mCompileC[0m build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/RootViewController.o [1mios/RootViewController.mm[0m normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/MyGame\ iOS.hmap -I/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/include -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/base -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/physics -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/2d -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/ui -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/network -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/extensions -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/external -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/DerivedSources/i386 -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/DerivedSources -F/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios -include /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-edwpdbidhozgimfihyezjxsijpdr/Prefix.pch -MMD -MT dependencies -MF /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/RootViewController.d --serialize-diagnostics /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/RootViewController.dia -c /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/RootViewController.mm -o /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/RootViewController.o36"C3558639-75D0-4422-97A7-26E4F4170060-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CCompileC build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/main.o /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419525070.458880
+e419525070.488712
+r1
+xCompileC
+xbuild/MyGame.build/Debug-iphonesimulator/MyGame iOS.build/Objects-normal/i386/main.o
+x/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/main.m189"[1mCompileC[0m build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/main.o [1mios/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileredd375ce7101b941^5f617dce7101b941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/main.m0000000000000000^4429"[1mCompileC[0m build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/main.o [1mios/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/MyGame\ iOS.hmap -I/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/include -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/base -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/physics -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/2d -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/ui -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/network -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/extensions -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/external -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/DerivedSources/i386 -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/DerivedSources -F/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios -include /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-gzmwjmstfobobbempfoqyvkczxlq/Prefix.pch -MMD -MT dependencies -MF /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/main.dia -c /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/main.m -o /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/main.o36"FE7E7222-03B3-44FD-A1D8-E71B8E73738B-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CCpResource /Users/kimjihoon/Development/projects/MyGame/Resources/CloseNormal.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/CloseNormal.png
+s419525069.925100
+e419525069.928340
+r1
+xCpResource
+x/Users/kimjihoon/Development/projects/MyGame/Resources/CloseNormal.png
+x/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/CloseNormal.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/CloseNormal.png188"[1mCpResource[0m /Users/kimjihoon/Development/projects/MyGame/Resources/CloseNormal.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/CloseNormal.png[0mf913edcd7101b941^94c1edcd7101b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame%20iOS.app/CloseNormal.png00340466ddffdf42^799"[1mCpResource[0m /Users/kimjihoon/Development/projects/MyGame/Resources/CloseNormal.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/CloseNormal.png[0m    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kimjihoon/Development/projects/MyGame/Resources/CloseNormal.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app36"0EC1E218-6257-44F7-819A-34CB1B2CD56C-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CCpResource /Users/kimjihoon/Development/projects/MyGame/Resources/CloseSelected.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/CloseSelected.png
+s419525069.929022
+e419525069.931272
+r1
+xCpResource
+x/Users/kimjihoon/Development/projects/MyGame/Resources/CloseSelected.png
+x/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/CloseSelected.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/CloseSelected.png192"[1mCpResource[0m /Users/kimjihoon/Development/projects/MyGame/Resources/CloseSelected.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/CloseSelected.png[0m9cf9edcd7101b941^236aeecd7101b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame%20iOS.app/CloseSelected.png00340466ddffdf42^805"[1mCpResource[0m /Users/kimjihoon/Development/projects/MyGame/Resources/CloseSelected.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/CloseSelected.png[0m    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kimjihoon/Development/projects/MyGame/Resources/CloseSelected.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app36"E16177BB-DFEB-44ED-8FFC-3DFD1A522F5C-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CCpResource /Users/kimjihoon/Development/projects/MyGame/Resources/HelloWorld.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/HelloWorld.png
+s419525069.933332
+e419525069.937514
+r1
+xCpResource
+x/Users/kimjihoon/Development/projects/MyGame/Resources/HelloWorld.png
+x/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/HelloWorld.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/HelloWorld.png186"[1mCpResource[0m /Users/kimjihoon/Development/projects/MyGame/Resources/HelloWorld.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/HelloWorld.png[0mb933efcd7101b941^1503f0cd7101b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame%20iOS.app/HelloWorld.png00340466ddffdf42^796"[1mCpResource[0m /Users/kimjihoon/Development/projects/MyGame/Resources/HelloWorld.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/HelloWorld.png[0m    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kimjihoon/Development/projects/MyGame/Resources/HelloWorld.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app36"982C28D7-65F9-4A43-80C8-326A51F72031-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CCpResource ios/Default-568h@2x.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Default-568h@2x.png
+s419525069.926371
+e419525069.933447
+r1
+xCpResource
+xios/Default-568h@2x.png
+x/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Default-568h@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Default-568h@2x.png145"[1mCpResource[0m ios/Default-568h@2x.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Default-568h@2x.png[0m74d4edcd7101b941^07eceecd7101b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame%20iOS.app/Default-568h@2x.png00340466ddffdf42^767"[1mCpResource[0m ios/Default-568h@2x.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Default-568h@2x.png[0m    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Default-568h@2x.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app36"C4D75B64-5138-4B45-9CEC-D6186BA4A971-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CCpResource ios/Default.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Default.png
+s419525069.939114
+e419525069.942258
+r1
+xCpResource
+xios/Default.png
+x/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Default.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Default.png129"[1mCpResource[0m ios/Default.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Default.png[0mf182f0cd7101b941^213df1cd7101b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame%20iOS.app/Default.png00340466ddffdf42^743"[1mCpResource[0m ios/Default.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Default.png[0m    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Default.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app36"0C47D2A3-5E31-4EA4-9F55-875AA3B16502-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CCpResource ios/Default@2x.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Default@2x.png
+s419525069.922358
+e419525069.929175
+r1
+xCpResource
+xios/Default@2x.png
+x/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Default@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Default@2x.png135"[1mCpResource[0m ios/Default@2x.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Default@2x.png[0m1748eccd7101b941^c9e3edcd7101b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame%20iOS.app/Default@2x.png00340466ddffdf42^752"[1mCpResource[0m ios/Default@2x.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Default@2x.png[0m    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Default@2x.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app36"B099D01F-F781-4FFF-B0AF-C7F18D3EE8D8-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CCpResource ios/Icon-100.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-100.png
+s419525069.923124
+e419525069.925576
+r1
+xCpResource
+xios/Icon-100.png
+x/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-100.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-100.png131"[1mCpResource[0m ios/Icon-100.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-100.png[0m8369eccd7101b941^dbfbeccd7101b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame%20iOS.app/Icon-100.png00340466ddffdf42^746"[1mCpResource[0m ios/Icon-100.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-100.png[0m    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-100.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app36"2D356B97-91BB-4C0C-8625-FE4AF39936B7-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CCpResource ios/Icon-114.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-114.png
+s419525069.931673
+e419525069.935486
+r1
+xCpResource
+xios/Icon-114.png
+x/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-114.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-114.png131"[1mCpResource[0m ios/Icon-114.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-114.png[0ma016efcd7101b941^438cefcd7101b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame%20iOS.app/Icon-114.png00340466ddffdf42^746"[1mCpResource[0m ios/Icon-114.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-114.png[0m    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-114.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app36"72121F68-AEB4-4742-9225-9EFE5C5C93B1-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CCpResource ios/Icon-120.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-120.png
+s419525069.921901
+e419525069.924499
+r1
+xCpResource
+xios/Icon-120.png
+x/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-120.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-120.png131"[1mCpResource[0m ios/Icon-120.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-120.png[0me319eccd7101b941^0fbaeccd7101b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame%20iOS.app/Icon-120.png00340466ddffdf42^746"[1mCpResource[0m ios/Icon-120.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-120.png[0m    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-120.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app36"C4089634-90BD-4A2A-85F3-2D999DD37E16-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CCpResource ios/Icon-144.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-144.png
+s419525069.935733
+e419525069.939577
+r1
+xCpResource
+xios/Icon-144.png
+x/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-144.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-144.png131"[1mCpResource[0m ios/Icon-144.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-144.png[0ma111f0cd7101b941^fcc5f0cd7101b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame%20iOS.app/Icon-144.png00340466ddffdf42^746"[1mCpResource[0m ios/Icon-144.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-144.png[0m    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-144.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app36"017AE968-0949-4386-A4FF-1131B43EB08A-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CCpResource ios/Icon-152.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-152.png
+s419525069.925387
+e419525069.927822
+r1
+xCpResource
+xios/Icon-152.png
+x/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-152.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-152.png131"[1mCpResource[0m ios/Icon-152.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-152.png[0mee0aedcd7101b941^cbbcedcd7101b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame%20iOS.app/Icon-152.png00340466ddffdf42^746"[1mCpResource[0m ios/Icon-152.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-152.png[0m    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-152.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app36"44E9D734-FFA4-4101-BD44-85492BAF1D5D-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CCpResource ios/Icon-29.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-29.png
+s419525069.933726
+e419525069.936727
+r1
+xCpResource
+xios/Icon-29.png
+x/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-29.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-29.png129"[1mCpResource[0m ios/Icon-29.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-29.png[0m9144efcd7101b941^67d1efcd7101b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame%20iOS.app/Icon-29.png00340466ddffdf42^743"[1mCpResource[0m ios/Icon-29.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-29.png[0m    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-29.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app36"C411E446-C645-438E-84FC-0597AC48FABD-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CCpResource ios/Icon-40.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-40.png
+s419525069.934243
+e419525069.936439
+r1
+xCpResource
+xios/Icon-40.png
+x/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-40.png129"[1mCpResource[0m ios/Icon-40.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-40.png[0m5b41efcd7101b941^edbaefcd7101b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame%20iOS.app/Icon-40.png00340466ddffdf42^743"[1mCpResource[0m ios/Icon-40.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-40.png[0m    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-40.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app36"613B8573-0A62-48F0-9DD7-562B8FE13102-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CCpResource ios/Icon-50.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-50.png
+s419525069.930153
+e419525069.931935
+r1
+xCpResource
+xios/Icon-50.png
+x/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-50.png129"[1mCpResource[0m ios/Icon-50.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-50.png[0m3a3eeecd7101b941^75e6eecd7101b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame%20iOS.app/Icon-50.png00340466ddffdf42^743"[1mCpResource[0m ios/Icon-50.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-50.png[0m    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-50.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app36"E59839F8-15B8-4888-974A-25BF7E705904-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CCpResource ios/Icon-57.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-57.png
+s419525069.937944
+e419525069.941173
+r1
+xCpResource
+xios/Icon-57.png
+x/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-57.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-57.png129"[1mCpResource[0m ios/Icon-57.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-57.png[0m1b62f0cd7101b941^eeebf0cd7101b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame%20iOS.app/Icon-57.png00340466ddffdf42^743"[1mCpResource[0m ios/Icon-57.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-57.png[0m    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-57.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app36"2592C036-FEA2-4DFF-A03D-3332CAFEFDEB-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CCpResource ios/Icon-58.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-58.png
+s419525069.939958
+e419525069.942227
+r1
+xCpResource
+xios/Icon-58.png
+x/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-58.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-58.png129"[1mCpResource[0m ios/Icon-58.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-58.png[0m88b9f0cd7101b941^0937f1cd7101b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame%20iOS.app/Icon-58.png00340466ddffdf42^743"[1mCpResource[0m ios/Icon-58.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-58.png[0m    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-58.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app36"29B1832A-53B4-4D42-AD8D-ABE7B560E524-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CCpResource ios/Icon-72.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-72.png
+s419525069.928060
+e419525069.931880
+r1
+xCpResource
+xios/Icon-72.png
+x/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-72.png129"[1mCpResource[0m ios/Icon-72.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-72.png[0m7502eecd7101b941^e882eecd7101b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame%20iOS.app/Icon-72.png00340466ddffdf42^743"[1mCpResource[0m ios/Icon-72.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-72.png[0m    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-72.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app36"46C14AE2-1117-469E-8306-990608900DD4-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CCpResource ios/Icon-76.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-76.png
+s419525069.922132
+e419525069.924505
+r1
+xCpResource
+xios/Icon-76.png
+x/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-76.png129"[1mCpResource[0m ios/Icon-76.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-76.png[0m2940eccd7101b941^d6c6eccd7101b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame%20iOS.app/Icon-76.png00340466ddffdf42^743"[1mCpResource[0m ios/Icon-76.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-76.png[0m    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-76.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app36"38AE8DC8-2CB3-4E01-8786-5E5BB840C2C9-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CCpResource ios/Icon-80.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-80.png
+s419525069.937090
+e419525069.939750
+r1
+xCpResource
+xios/Icon-80.png
+x/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-80.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Icon-80.png129"[1mCpResource[0m ios/Icon-80.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-80.png[0m9b03f0cd7101b941^70d2f0cd7101b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame%20iOS.app/Icon-80.png00340466ddffdf42^743"[1mCpResource[0m ios/Icon-80.png [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Icon-80.png[0m    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Icon-80.png /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app36"200D487E-6270-46DB-BE47-99F99B7AA7FB-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CGenerateDSYMFile /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app.dSYM /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/MyGame\ iOS
+s419525074.763831
+e419525079.475911
+r1
+xGenerateDSYMFile
+x/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app.dSYM
+x/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/MyGame iOS
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Generate /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app.dSYM199"[1mGenerateDSYMFile[0m [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app.dSYM[0m /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/MyGame\ iOSbda6c3d27101b941^d3d979d77101b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame%20iOS.app.dSYM00340466ddffdf42^822"[1mGenerateDSYMFile[0m [1m/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app.dSYM[0m /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/MyGame\ iOS    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/MyGame\ iOS -o /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app.dSYM36"E0E72B96-81BC-4000-9FC8-4BE45B875522-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CLd /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/MyGame\ iOS normal i386
+s419525074.033478
+e419525074.762421
+r1
+xLd
+x/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/MyGame iOS
+xnormal
+xi386
+d/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame iOS.build/Objects-normal/i386/MyGame iOS.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame iOS.build/Objects-normal/i386/AppController.o
+d/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame iOS.build/Objects-normal/i386/RootViewController.o
+d/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame iOS.build/Objects-normal/i386/AppDelegate.o
+d/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame iOS.build/Objects-normal/i386/main.o
+d/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame iOS.build/Objects-normal/i386/HelloWorldScene.o
+d/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/libbox2d iOS.a
+d/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/libchipmunk iOS.a
+d/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/libcocos2dx iOS.a
+d/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/libcocos2dx-extensions iOS.a
+d/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/libCocosDenshion iOS.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libc++abi.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Link /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/MyGame iOS109"[1mLd[0m /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/MyGame\ iOS normal i386c0b408d27101b941^f92cc3d27101b941^---0#0#1#--2062"[1mLd[0m /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/MyGame\ iOS normal i386    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export IPHONEOS_DEPLOYMENT_TARGET=5.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios -F/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios -filelist /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/MyGame\ iOS.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -stdlib=libc++ -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/libbox2d\ iOS.a /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/libchipmunk\ iOS.a /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/libcocos2dx\ iOS.a /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/libcocos2dx-extensions\ iOS.a /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/libCocosDenshion\ iOS.a -framework CoreMotion -framework Foundation -framework UIKit -framework CoreGraphics -framework OpenGLES -lz -framework QuartzCore -framework OpenAL -framework AVFoundation -framework AudioToolbox -Xlinker -dependency_info -Xlinker /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/Objects-normal/i386/MyGame\ iOS_dependency_info.dat -o /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/MyGame\ iOS36"EC9F453F-9421-4DB7-9A1B-F3ECD839B7E2-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CProcessInfoPlistFile /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Info.plist /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Info.plist
+s419525069.919373
+e419525069.921318
+r1
+xProcessInfoPlistFile
+x/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame iOS.app/Info.plist
+x/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Process /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Info.plist137"[1mProcessInfoPlistFile[0m /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Info.plist [1mios/Info.plist[0m9b70ebcd7101b941^e4dbebcd7101b941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Info.plist0000000000000000^838"[1mProcessInfoPlistFile[0m /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Info.plist [1mios/Info.plist[0m    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    builtin-infoPlistUtility /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Info.plist -genpkginfo /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app/Info.plist36"DDF7A542-70FF-4BC7-9C97-21D58A11546B-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CProcessPCH /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-gzmwjmstfobobbempfoqyvkczxlq/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419525069.943889
+e419525070.379213
+r1
+xProcessPCH
+x/var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-gzmwjmstfobobbempfoqyvkczxlq/Prefix.pch.pch
+xios/Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection25"Precompile ios/Prefix.pch270"[1mProcessPCH[0m /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-gzmwjmstfobobbempfoqyvkczxlq/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0ccdf1cd7101b941^591561ce7101b941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Prefix.pch0000000000000000^4418"[1mProcessPCH[0m /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-gzmwjmstfobobbempfoqyvkczxlq/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/MyGame\ iOS.hmap -I/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/include -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/base -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/physics -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/2d -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/ui -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/network -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/extensions -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/external -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/DerivedSources/i386 -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/DerivedSources -F/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios --serialize-diagnostics /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-gzmwjmstfobobbempfoqyvkczxlq/Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-gzmwjmstfobobbempfoqyvkczxlq/Prefix.pch.d -c /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Prefix.pch -o /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-gzmwjmstfobobbempfoqyvkczxlq/Prefix.pch.pch36"6D18A917-714B-44BC-ABE8-601BD1CA910E-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CProcessPCH++ /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-adjwzijobbnhvefyrmlhxkckmqor/Prefix.pch.pch ios/Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s419525069.943371
+e419525069.963250
+r1
+xProcessPCH++
+x/var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-adjwzijobbnhvefyrmlhxkckmqor/Prefix.pch.pch
+xios/Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection25"Precompile ios/Prefix.pch264"[1mProcessPCH++[0m /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-adjwzijobbnhvefyrmlhxkckmqor/Prefix.pch.pch ios/Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilereca1f1cd7101b941^c097f6cd7101b941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Prefix.pch0000000000000000^4292"[1mProcessPCH++[0m /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-adjwzijobbnhvefyrmlhxkckmqor/Prefix.pch.pch ios/Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/MyGame\ iOS.hmap -I/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/include -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/base -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/physics -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/2d -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/ui -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/network -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/extensions -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/external -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/DerivedSources/i386 -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/DerivedSources -F/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios --serialize-diagnostics /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-adjwzijobbnhvefyrmlhxkckmqor/Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-adjwzijobbnhvefyrmlhxkckmqor/Prefix.pch.d -c /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Prefix.pch -o /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-adjwzijobbnhvefyrmlhxkckmqor/Prefix.pch.pch36"6C059A7F-2113-4B5F-A6A7-8C286A54BCD6-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CProcessPCH++ /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-edwpdbidhozgimfihyezjxsijpdr/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s419525069.943050
+e419525070.455635
+r1
+xProcessPCH++
+x/var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-edwpdbidhozgimfihyezjxsijpdr/Prefix.pch.pch
+xios/Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection25"Precompile ios/Prefix.pch274"[1mProcessPCH++[0m /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-edwpdbidhozgimfihyezjxsijpdr/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compilercb86f1cd7101b941^6aa574ce7101b941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Prefix.pch0000000000000000^4549"[1mProcessPCH++[0m /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-edwpdbidhozgimfihyezjxsijpdr/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/kimjihoon/Development/cocos2d-x/tools/cocos2d-console/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:./"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/MyGame\ iOS.hmap -I/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/include -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/base -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/physics -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/2d -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/ui -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/network -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/extensions -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/external -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/DerivedSources/i386 -I/Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/build/MyGame.build/Debug-iphonesimulator/MyGame\ iOS.build/DerivedSources -F/Users/kimjihoon/Development/projects/MyGame/bin/debug/ios --serialize-diagnostics /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-edwpdbidhozgimfihyezjxsijpdr/Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-edwpdbidhozgimfihyezjxsijpdr/Prefix.pch.d -c /Users/kimjihoon/Development/projects/MyGame/proj.ios_mac/ios/Prefix.pch -o /var/folders/rc/3j0_b0v57bg24rv239237tx80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-edwpdbidhozgimfihyezjxsijpdr/Prefix.pch.pch36"2B69CE06-594D-4F13-825D-02135C597683-
+b70D7ABF6-07C1-4499-AC26-767701FDCBED
+
+CTouch /Users/kimjihoon/Development/projects/MyGame/bin/debug/ios/MyGame\ iOS.app
+r0
+

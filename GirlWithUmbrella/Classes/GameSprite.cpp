@@ -1,0 +1,1 @@
+﻿#include "GameSprite.h"USING_NS_CC;GameSprite::GameSprite(void):_vector(Point(0,0)),_screenSize(CCDirector::getInstance()->getWinSize()){}GameSprite::~GameSprite(void){}

@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>background_new</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {283.75, 401}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{283.75, 401}</string>
+			<key>spriteSourceSize</key>
+			<string>{283.75, 401}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {401, 283.75}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>blank</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {0.25, 0.25}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{0.25, 0.25}</string>
+			<key>spriteSourceSize</key>
+			<string>{0.25, 0.25}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{500, 83}, {0.25, 0.25}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>btn_howto_off</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {107.75, 19.25}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{107.75, 19.25}</string>
+			<key>spriteSourceSize</key>
+			<string>{107.75, 19.25}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{479, 69}, {19.25, 107.75}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>btn_howto_on</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {107.75, 19.25}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{107.75, 19.25}</string>
+			<key>spriteSourceSize</key>
+			<string>{107.75, 19.25}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{479, 178}, {19.25, 107.75}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>btn_new_off</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {84.25, 19.25}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{84.25, 19.25}</string>
+			<key>spriteSourceSize</key>
+			<string>{84.25, 19.25}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{89, 421}, {84.25, 19.25}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>btn_new_on</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {84.25, 19.25}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{84.25, 19.25}</string>
+			<key>spriteSourceSize</key>
+			<string>{84.25, 19.25}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 421}, {84.25, 19.25}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>building_1</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {64.25, 64.25}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{64.25, 64.25}</string>
+			<key>spriteSourceSize</key>
+			<string>{64.25, 64.25}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{69, 288}, {64.25, 64.25}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>building_2</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {64.25, 64.25}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{64.25, 64.25}</string>
+			<key>spriteSourceSize</key>
+			<string>{64.25, 64.25}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 288}, {64.25, 64.25}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>building_3</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {64.25, 64.25}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{64.25, 64.25}</string>
+			<key>spriteSourceSize</key>
+			<string>{64.25, 64.25}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 354}, {64.25, 64.25}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>building_4</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {64, 64.25}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{64, 64.25}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 64.25}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{69, 354}, {64, 64.25}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>chimney</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {14, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{14, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{14, 16}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{135, 402}, {14, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>cloud</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 2.5}, {79.25, 41}}</string>
+			<key>spriteOffset</key>
+			<string>{-0.125, -0}</string>
+			<key>spriteSize</key>
+			<string>{79.25, 41}</string>
+			<key>spriteSourceSize</key>
+			<string>{83.5, 46}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{213, 288}, {79.25, 41}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>font</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0.5, 0.75}, {121.75, 48.5}}</string>
+			<key>spriteOffset</key>
+			<string>{-2.625, 7}</string>
+			<key>spriteSize</key>
+			<string>{121.75, 48.5}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{463, 288}, {48.5, 121.75}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>hat</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {12.75, 11.5}}</string>
+			<key>spriteOffset</key>
+			<string>{-0.125, -0}</string>
+			<key>spriteSize</key>
+			<string>{12.75, 11.5}</string>
+			<key>spriteSourceSize</key>
+			<string>{13, 11.5}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{500, 69}, {11.5, 12.75}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>jam_1</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0.5, 1.5}, {75.75, 45.5}}</string>
+			<key>spriteOffset</key>
+			<string>{-0.125, -0.75}</string>
+			<key>spriteSize</key>
+			<string>{75.75, 45.5}</string>
+			<key>spriteSourceSize</key>
+			<string>{77, 47}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{135, 288}, {75.75, 45.5}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>jam_2</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0.5, 0.75}, {75.75, 45.5}}</string>
+			<key>spriteOffset</key>
+			<string>{-0.125, -0}</string>
+			<key>spriteSize</key>
+			<string>{75.75, 45.5}</string>
+			<key>spriteSourceSize</key>
+			<string>{77, 47}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{135, 354}, {75.75, 45.5}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>jam_3</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0.5, 0}, {76, 45.75}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0.625}</string>
+			<key>spriteSize</key>
+			<string>{76, 45.75}</string>
+			<key>spriteSourceSize</key>
+			<string>{77, 47}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{463, 412}, {45.75, 76}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>label_tryagain</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 2.75}, {205.25, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{-0.125, -0}</string>
+			<key>spriteSize</key>
+			<string>{205.25, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{209.5, 61.5}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{405, 235}, {56, 205.25}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>lamp</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {143, 187}}</string>
+			<key>spriteOffset</key>
+			<string>{-0.25, -0.5}</string>
+			<key>spriteSize</key>
+			<string>{143, 187}</string>
+			<key>spriteSourceSize</key>
+			<string>{143.5, 188}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 443}, {187, 143}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>logo</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {231, 71.25}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{231, 71.25}</string>
+			<key>spriteSourceSize</key>
+			<string>{231, 71.25}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{405, 2}, {71.25, 231}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>player_1</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{16.25, 23.5}, {56, 59}}</string>
+			<key>spriteOffset</key>
+			<string>{-5.75, -6.5}</string>
+			<key>spriteSize</key>
+			<string>{56, 59}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 93}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{294, 288}, {59, 56}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>player_10</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{15, 17.75}, {52.5, 65.5}}</string>
+			<key>spriteOffset</key>
+			<string>{-8.75, -4}</string>
+			<key>spriteSize</key>
+			<string>{52.5, 65.5}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 93}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{212, 336}, {65.5, 52.5}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>player_11</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20.5, 19}, {51.25, 45.25}}</string>
+			<key>spriteOffset</key>
+			<string>{-3.875, 4.875}</string>
+			<key>spriteSize</key>
+			<string>{51.25, 45.25}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 93}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{329, 468}, {51.25, 45.25}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>player_12</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19.75, 19.5}, {52.75, 55.75}}</string>
+			<key>spriteOffset</key>
+			<string>{-3.875, -0.875}</string>
+			<key>spriteSize</key>
+			<string>{52.75, 55.75}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 93}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{329, 413}, {55.75, 52.75}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>player_2</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{17.75, 20.5}, {49.5, 64.25}}</string>
+			<key>spriteOffset</key>
+			<string>{-7.5, -6.125}</string>
+			<key>spriteSize</key>
+			<string>{49.5, 64.25}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 93}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{278, 404}, {49.5, 64.25}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>player_3</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{18.75, 19.25}, {35.75, 65}}</string>
+			<key>spriteOffset</key>
+			<string>{-13.375, -5.25}</string>
+			<key>spriteSize</key>
+			<string>{35.75, 65}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 93}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{175, 402}, {65, 35.75}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>player_4</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{13.75, 17.25}, {48.5, 65.75}}</string>
+			<key>spriteOffset</key>
+			<string>{-12, -3.625}</string>
+			<key>spriteSize</key>
+			<string>{48.5, 65.75}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 93}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{355, 288}, {48.5, 65.75}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>player_5</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 16}, {55.5, 47.25}}</string>
+			<key>spriteOffset</key>
+			<string>{-10.25, 6.875}</string>
+			<key>spriteSize</key>
+			<string>{55.5, 47.25}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 93}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{387, 443}, {55.5, 47.25}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>player_6</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{13.25, 20.5}, {58.25, 55.5}}</string>
+			<key>spriteOffset</key>
+			<string>{-7.625, -1.75}</string>
+			<key>spriteSize</key>
+			<string>{58.25, 55.5}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 93}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{341, 356}, {58.25, 55.5}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>player_7</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{16.25, 23.25}, {55.5, 59.25}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -6.375}</string>
+			<key>spriteSize</key>
+			<string>{55.5, 59.25}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 93}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{280, 346}, {59.25, 55.5}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>player_8</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{26.75, 26.5}, {44.25, 61.75}}</string>
+			<key>spriteOffset</key>
+			<string>{-1.125, -10.875}</string>
+			<key>spriteSize</key>
+			<string>{44.25, 61.75}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 93}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{191, 440}, {44.25, 61.75}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>player_9</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21.5, 22}, {35, 61}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, -6}</string>
+			<key>spriteSize</key>
+			<string>{35, 61}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 93}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{238, 456}, {35, 61}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>player_float</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1.25, 0}, {43.5, 61.75}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0.625}</string>
+			<key>spriteSize</key>
+			<string>{43.5, 61.75}</string>
+			<key>spriteSourceSize</key>
+			<string>{46, 63}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{191, 503}, {43.5, 61.75}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>puff_1</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1.25, 1}, {17.5, 17.75}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0.125}</string>
+			<key>spriteSize</key>
+			<string>{17.5, 17.75}</string>
+			<key>spriteSourceSize</key>
+			<string>{20, 20}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{494, 490}, {17.75, 17.5}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>puff_2</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 1.25}, {30.75, 26.25}}</string>
+			<key>spriteOffset</key>
+			<string>{-0.125, 0.125}</string>
+			<key>spriteSize</key>
+			<string>{30.75, 26.25}</string>
+			<key>spriteSourceSize</key>
+			<string>{33, 29}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{383, 492}, {30.75, 26.25}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>puff_3</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1.25, 1.5}, {47.5, 45.5}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{47.5, 45.5}</string>
+			<key>spriteSourceSize</key>
+			<string>{50, 48.5}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{445, 490}, {47.5, 45.5}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>puff_4</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1.25, 1.5}, {50, 45.5}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 45.5}</string>
+			<key>spriteSourceSize</key>
+			<string>{52.5, 48.5}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{275, 470}, {50, 45.5}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>roof_1</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {64.25, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0.125}</string>
+			<key>spriteSize</key>
+			<string>{64.25, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{64.25, 34.25}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{242, 390}, {34, 64.25}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>roof_2</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {64.25, 33.75}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{64.25, 33.75}</string>
+			<key>spriteSourceSize</key>
+			<string>{64.25, 33.75}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{479, 2}, {33.75, 64.25}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>GeneratedWith</key>
+		<string>SpriteHelper</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>textureFileName</key>
+		<string>caveman_UntitledSheet.png</string>
+	</dict>
+</dict>
+</plist>

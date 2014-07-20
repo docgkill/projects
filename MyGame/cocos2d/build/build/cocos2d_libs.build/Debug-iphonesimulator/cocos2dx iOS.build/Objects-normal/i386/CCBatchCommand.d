@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCBatchCommand.cpp \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/renderer/CCBatchCommand.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCRenderCommand.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/../base/CCPlatformMacros.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccConfig.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/../base/CCPlatformConfig.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/platform/ios/CCPlatformDefine.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccTypes.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/../base/CCGeometry.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccMacros.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/../base/CCConsole.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/platform/ios/CCStdC.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/platform/ios/CCGL.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/GL/matrix.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/GL/../mat4.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/GL/../utility.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/GL/../vec3.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/CCGLProgram.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/../base/CCRef.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/kazmath.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/GL/../vec2.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/GL/../vec4.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/GL/../mat3.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/GL/../quaternion.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/GL/../plane.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/GL/../aabb.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/GL/../ray2.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/math/kazmath/kazmath/GL/../ray3.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/cocos/2d/renderer/CCRenderCommandPool.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/ccGLStateCache.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/CCTextureAtlas.h \
+  /Users/kimjihoon/Development/projects/MyGame/cocos2d/build/../cocos/2d/CCTexture2D.h
